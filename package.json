@@ -1,6 +1,6 @@
 {
   "name": "hippo-ckeditor-wordcount-plugin",
-  "version": "1.16.0",
+  "version": "1.16.1",
   "author": "w8tcha",
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
     "package.json"
   ],
   "engines": {
-    "node": "6"
+    "node": "8"
   }
 }
 
